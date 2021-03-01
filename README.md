@@ -98,4 +98,4 @@ Ludee will be comprised of 3 main models: <br>
 * JS...
 
 # Mockup
-![Mockup](Mocup/Ludee\ Home\ Page.png)
+![Mockup](Mocup/Ludee.png)
