@@ -98,4 +98,4 @@ Ludee will be comprised of 3 main models: <br>
 * JS...
 
 # Mockup
-![alt text](https://github.com/Balbader/Ludee.org/main/Mockup/Ludee\ Home\ Page\.png?raw=true)
+![Mockup](Mocup/Ludee\ Home\ Page.png)
