@@ -24,6 +24,8 @@ earn some cash on the side. <br>
 ## Description
 Like life, Buster Said Go! is a team game.
 
-1. At the beginning of each game, you get matched with 2 random player.
-2. You independently answer general-purpose trivia statements True or False within a 10-second time limit.
-3. Rack up as many points as you can. The game is over after three incorrect answers.
+1. At the beginning of each game, you get matched with 2 random player
+2. You independently answer general-purpose trivia statements True or False within a 10-second time limit
+3. Rack up as many points as you can. The game is over after three incorrect answers
+4. A game lasts 7 days. This is called the inner cycle
+5. At the end of each inner cycle, the team with the highest points count wins the weeky money prize
