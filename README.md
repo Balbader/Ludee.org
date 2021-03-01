@@ -78,6 +78,7 @@ Ludee will be comprised of 3 main models: <br>
 * Game status (User team score, User game status)
 
 ## Payment
+
 * Implementation of Stripe connect for every user in order to pay them
 * Implementation of Student Loan Fund
 
@@ -96,3 +97,5 @@ Ludee will be comprised of 3 main models: <br>
 * CSS
 * JS...
 
+# Mockup
+![alt text](https://github.com/Balbader/Ludee.org/main/Mockup/Ludee\ Home\ Page\.png?raw=true)
