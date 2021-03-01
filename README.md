@@ -17,3 +17,8 @@ there is between 200 and 300 thousands students that seeks a student loan <br>
 to finance their post-bac studies. This amounts to about 10% of the student population of the country. <br>
 Adding to that the current economic crisis due to the pandemic, earning money is harder than ever. <br>
 
+## Our Solution
+Welcome to Buster Said Go! <br>
+The Crowdfunding Quiz Game to help students pay off their student loan and <br>
+earn some cash on the side. <br>
+
