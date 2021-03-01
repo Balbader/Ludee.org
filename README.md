@@ -24,6 +24,11 @@ earn some cash on the side. <br>
 * Basil Albader
 * Yann Rannou (TBC)
 
+## Mentor
+We are currently actively looking for a Knowledgable mentor to join our team. <br>
+If you like our project and would like to get in to the fun, drop me a message on discord you are a Corsair or Alumni @Basil#2377<br>
+Or reach me @: basilalbapro@gmail.com
+
 # The Idea
 
 ## Description of the game
