@@ -3,12 +3,10 @@
 
 Welcome and thank you for taking the time to check us out ^^ <br>
 
-The following is our final project presentation for what we believe is an <br>
-amazing idea. <br>
+The following is our final project presentation for what we believe is an amazing idea. <br>
 
-We truly hope that this presentation will create in you the desire to follow <br>
-us in crafting an amazing solution to one of the greatest problems ever encountered <br>
-by students, specially in the actual health crisis: <br>
+We truly hope that this presentation will create in you the desire to follow us in crafting <br>
+an amazing solution to one of the greatest problems ever encountered by students, specially in the actual health crisis: <br>
 STUDENT LOANS! <br><br>
 
 ## Problem
