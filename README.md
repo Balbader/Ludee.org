@@ -19,7 +19,7 @@ earn some cash on the side. <br>
 
 # The Idea
 
-## Description
+## Description of the game
 Like life, Buster Said Go! is a team game.
 
 1. At the beginning of each game, you get matched with 2 random player.
@@ -45,6 +45,26 @@ For the following example, we will take a base of 10,000 euros: <br>
 3. The Student Loan Fund is filled up every month until it either reaches the amount of the student loan in the current funding cycle or 25k.
 4. Once one of both cases is met, the loan on the current funding cycle is payed.
 5. After payment of the current student loan, a new funding cycle is launched and the next student loan on the list becomes takes the top spot. 
+
+# Structure of the platform
+The structure of the platform is still in R&D state but here are the big lines: <br>
+BSG will be comprised of 3 main models: <br>
+* Users
+* Game
+* Payment
+
+# Main Features
+## Users
+* Sign Up / Login 
+* User profile/User logged in (profile picture, User basic info, Inner Cycle Dashboard, Settings Dashboard)
+
+## Game
+* Game page (user logged in): same for all users
+* Game status (User team score, User game status)
+
+## Payment
+* Implementation of Stripe connect for every user in order to pay them
+* Implementation of Student Loan Fund
 
 
 
