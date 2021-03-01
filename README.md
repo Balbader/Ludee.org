@@ -19,3 +19,11 @@ Welcome to Buster Said Go! <br>
 The Crowdfunding Quiz Game to help students pay off their student loan and <br>
 earn some cash on the side. <br>
 
+# The Idea
+
+## Description
+Like life, Buster Said Go! is a team game.
+
+1. At the beginning of each game, you get matched with 2 random player.
+2. You independently answer general-purpose trivia statements True or False within a 10-second time limit.
+3. Rack up as many points as you can. The game is over after three incorrect answers.
