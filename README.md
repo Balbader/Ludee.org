@@ -12,16 +12,8 @@ by students, specially in the actual health crisis: <br>
 STUDENT LOANS! <br><br>
 
 ## Problem
-Following a study by [l'Unef](https://unef.fr/) and [l'Observatoire National de la Vie Etudiante](http://www.ove-national.education.fr/situation-economique-et-financiere-des-etudiant%c2%b7e%c2%b7s-de-nouvelles-donnees-disponibles-2/) <br>
-
-
-
-
-
-En France, selon l’Unef et l’Observatoire National de la Vie Etudiante (OVE), ils seraient entre 200 et 300 000 à <br>
-avoir sollicité un prêt étudiant pour financer leur formation post-bac. La nécessité de s’endetter pour étudier <br>
-concernerait plus ou moins 10% de la population étudiante. <br>
-
-Si le phénomène ne peut certes être comparé avec la situation Outre Manche et Outre-Atlantique, la tendance n’en <br>
-reste pas moins à la hausse. <br>
+Following a study by [l'Unef](https://unef.fr/) and [l'Observatoire National de la Vie Etudiante](http://www.ove-national.education.fr/situation-economique-et-financiere-des-etudiant%c2%b7e%c2%b7s-de-nouvelles-donnees-disponibles-2/), <br>
+there is between 200 and 300 thousands students that seeks a student loan <br>
+to finance their post-bac studies. This amounts to about 10% of the student population of the country. <br>
+Adding to that the current economic crisis due to the pandemic, earning money is harder than ever. <br>
 
