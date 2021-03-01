@@ -29,3 +29,46 @@ Like life, Buster Said Go! is a team game.
 3. Rack up as many points as you can. The game is over after three incorrect answers
 4. A game lasts 7 days. This is called the inner cycle
 5. At the end of each inner cycle, the team with the highest points count wins the weeky money prize
+<br>
+How do we pay off student loans?<br>
+
+1. Every student that signs up on BSG has the oportunity to enter the Student Loan Fund
+2. For that, simply fill in the justification form and once your form is validated by out staff, you will be added to the queue.
+3. The loans are added in chronological order, this means that the loans with the shortest dead line gets on top of the list
+4. A loan is paid off completely if it is under 25k else, your loan will receive a maximum of 25k before switching to the following
+<br>
+
+How do you pay of loans?<br>
+There is a 10 euros/month subscription to use BSG. The money is split as follow: <br>
+
+For the following example, we will take a base of 10,000 euros: <br>
+1. Every month, the money is split 3 ways.
+2. 50% goes to the Student Loan Fund, 40% goes to the weekly prizes and the remaining 10% goes to BSG (in order to run the platform..)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
