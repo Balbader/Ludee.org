@@ -1,4 +1,4 @@
-# Buster_Said_Go
+# Buster Said Go
 The Hacking Project Bootcamp Final Project Presentation
 
 Welcome and thank you for taking the time to check us out ^^ <br>
