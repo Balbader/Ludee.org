@@ -74,31 +74,15 @@ BSG will be comprised of 3 main models: <br>
 * Implementation of Student Loan Fund
 
 # Optional
-* Implementation of "Pat to Play" feature for non logged in Users
+* Implementation of "Pay to Play" feature for non logged in Users
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Tech (in progress and to be confirmed)
+* App rails 6
+* Ruby
+* PostgreSQL
+* Mailer
+* Stripe
+* Bootstrap
+* html
+* CSS
+* JS
