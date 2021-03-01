@@ -17,6 +17,13 @@ Welcome to Buster Said Go! <br>
 The Crowdfunding Quiz Game to help students pay off their student loan and <br>
 earn some cash on the side. <br>
 
+## Our Team
+* Janaina Figueira
+* Youssef Annabi
+* Charles Campet
+* Basil Albader
+* Yann Rannou (TBC)
+
 # The Idea
 
 ## Description of the game
@@ -66,7 +73,8 @@ BSG will be comprised of 3 main models: <br>
 * Implementation of Stripe connect for every user in order to pay them
 * Implementation of Student Loan Fund
 
-
+# Optional
+* Implementation of "Pat to Play" feature for non logged in Users
 
 
 
