@@ -9,8 +9,7 @@ We truly hope that this presentation will create in you the desire to follow us 
 to one of the greatest problems ever encountered by students, specially in the actual health crisis: STUDENT LOANS! <br>
 
 ## Problem
-Following a study by [l'Unef](https://unef.fr/) and [l'Observatoire National de la Vie Etudiante](http://www.ove-national.education.fr/situation-economique-et-financiere-des-etudiant%c2%b7e%c2%b7s-de-nouvelles-donnees-disponibles-2/), there is between 200 and 300 thousands students that seeks a student loan <br>
-to finance their post-bac studies. This amounts to about 10% of the student population of the country. <br>
+Following a study by [l'Unef](https://unef.fr/) and [l'Observatoire National de la Vie Etudiante](http://www.ove-national.education.fr/situation-economique-et-financiere-des-etudiant%c2%b7e%c2%b7s-de-nouvelles-donnees-disponibles-2/), there is between 200 and 300 thousands students that seeks a student loan to finance their post-bac studies. This amounts to about 10% of the student population of the country. <br>
 Adding to that the current economic crisis due to the pandemic, earning money is harder than ever. <br>
 
 ## Our Solution
