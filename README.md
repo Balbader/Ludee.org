@@ -25,7 +25,7 @@ while 10% is used to operate the Ludee platform, less banking and process charge
 * Youssef Annabi
 * Charles Campet
 * Basil Albader
-* Yann Rannou (TBC)
+* Yann Rannou
 
 ## Mentor
 We are currently actively looking for a Knowledgable mentor to join our team. <br>
